@@ -1,0 +1,1 @@
+This file present within it's created branch MyBranch1 and not in master branch due to magical .git folder you can see the difference in it's file explorer location 
